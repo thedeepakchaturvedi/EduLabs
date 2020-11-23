@@ -1,3 +1,5 @@
+![](https://github.com/deepakchaturvedifzd/OctaHacks3.0_Submission/blob/main/README%20files/edulab1.png)
+
 
 <p  align=center><b> Greetings from Team SEEKERS, </b></p>
 <p align=center> We are glad to present our idea </p>
