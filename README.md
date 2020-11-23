@@ -45,3 +45,8 @@
 ##   Our Team
 ##### 1. Deepak Chaturvedi
 ##### 2. Sankalp Jaitly
+
+![](https://github.com/deepakchaturvedifzd/OctaHacks3.0_Submission/blob/main/README%20files/edulabs2.PNG)
+![](https://github.com/deepakchaturvedifzd/OctaHacks3.0_Submission/blob/main/README%20files/edulabs3.PNG)
+![](https://github.com/deepakchaturvedifzd/OctaHacks3.0_Submission/blob/main/README%20files/edulabs4.PNG)
+![](https://github.com/deepakchaturvedifzd/OctaHacks3.0_Submission/blob/main/README%20files/edulabs5.PNG)
